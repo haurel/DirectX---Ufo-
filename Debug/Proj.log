@@ -1,0 +1,3 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+F:\Proiecte\Directx Proiect\main.cpp(2,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
